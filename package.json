@@ -1,0 +1,20 @@
+{
+  "name": "almaz",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "мой первый проект :))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OLDAK7/almaz-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OLDAK7/almaz-js/issues"
+  },
+  "homepage": "https://github.com/OLDAK7/almaz-js#readme"
+}
